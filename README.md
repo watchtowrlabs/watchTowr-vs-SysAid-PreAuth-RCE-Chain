@@ -6,6 +6,10 @@ PoC for SysAid PreAuth RCE Chain (CVE-2025-2775, CVE-2025-2776, CVE-2025-2777, C
  
 
 
+https://github.com/user-attachments/assets/03245fab-915d-43b6-8e91-f0a18251af49
+
+
+
 # PoC in Action
 
 
